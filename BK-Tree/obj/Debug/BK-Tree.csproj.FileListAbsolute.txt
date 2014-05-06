@@ -1,0 +1,6 @@
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\bin\Debug\BK-Tree.exe.config
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\obj\Debug\BK-Tree.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\bin\Debug\BK-Tree.exe
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\bin\Debug\BK-Tree.pdb
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\obj\Debug\BK-Tree.exe
+c:\users\tim\documents\visual studio 2013\Projects\BK-Tree\BK-Tree\obj\Debug\BK-Tree.pdb
